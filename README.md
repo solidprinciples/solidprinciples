@@ -2,7 +2,7 @@
 
 I build software that saves people time, with a strong focus on **thoughtful UX** and making complex work feel effortless.
 
-I spent 5 years at Microsoft building tools that turn tedious workflows into delightful experiences. I love the craft of making complex things feel simple.
+I love the craft of making complex things feel simple.
 
 ### What I Care About
 
