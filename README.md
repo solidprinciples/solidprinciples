@@ -2,7 +2,7 @@
 
 I build software that saves people time, with a strong focus on **thoughtful UX** and making complex work feel effortless.
 
-I love the craft of making complex things feel simple.
+Frontend-focused full-stack engineer who genuinely loves the craft of polished, intuitive UI.
 
 ### What I Care About
 
