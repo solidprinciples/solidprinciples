@@ -1,8 +1,8 @@
 # Hey, I'm Chandler 👋
 
-I build software that saves people time, with a strong focus on **thoughtful UX** and making complex work feel effortless.
-
 Frontend-focused full-stack engineer who genuinely loves the craft of polished, intuitive UI.
+
+I build software that saves people time, with a strong focus on **thoughtful UX** and making complex work feel effortless.
 
 ### What I Care About
 
