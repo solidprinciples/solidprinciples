@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Chandler 👋
 
-<!--
-**solidprinciples/solidprinciples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that saves people time, with a strong focus on **thoughtful UX** and making complex work feel effortless.
 
-Here are some ideas to get you started:
+I spent 5 years at Microsoft building tools that turn tedious workflows into delightful experiences. I love the craft of making complex things feel simple.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Care About
+
+- **Design that delights** — interfaces that feel intuitive, not just functional
+- **Simplifying complexity** — design systems, component architecture, intuitive UX
+- **AI / LLM tooling** — agents and workflows that actually do useful work
+- **Accessibility** — good software works for everyone
+
+### Currently Tinkering With
+
+AI-powered tools that turn raw data into actionable insights. Less clicking, more doing.
+
